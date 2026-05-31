@@ -1,0 +1,1124 @@
+```json
+{
+  "Vivo Y28": {
+    "general": 151,
+    "reddot": 123,
+    "2x_scope": 90,
+    "4x_scope": 74,
+    "8x_scope": 12,
+    "free_camera": 29
+  },
+  "Vivo Y28s 5G": {
+    "general": 156,
+    "reddot": 128,
+    "2x_scope": 95,
+    "4x_scope": 79,
+    "8x_scope": 17,
+    "free_camera": 34
+  },
+  "Vivo Y27": {
+    "general": 146,
+    "reddot": 118,
+    "2x_scope": 85,
+    "4x_scope": 69,
+    "8x_scope": 9,
+    "free_camera": 24
+  },
+  "Vivo Y27 5G": {
+    "general": 149,
+    "reddot": 121,
+    "2x_scope": 88,
+    "4x_scope": 72,
+    "8x_scope": 11,
+    "free_camera": 27
+  },
+  "Vivo Y26": {
+    "general": 141,
+    "reddot": 113,
+    "2x_scope": 80,
+    "4x_scope": 64,
+    "8x_scope": 7,
+    "free_camera": 21
+  },
+  "Vivo Y26s": {
+    "general": 144,
+    "reddot": 116,
+    "2x_scope": 83,
+    "4x_scope": 67,
+    "8x_scope": 10,
+    "free_camera": 25
+  },
+  "Vivo Y21": {
+    "general": 136,
+    "reddot": 108,
+    "2x_scope": 75,
+    "4x_scope": 59,
+    "8x_scope": 5,
+    "free_camera": 17
+  },
+  "Vivo Y21T": {
+    "general": 139,
+    "reddot": 111,
+    "2x_scope": 78,
+    "4x_scope": 62,
+    "8x_scope": 8,
+    "free_camera": 23
+  },
+  "Vivo Y20": {
+    "general": 131,
+    "reddot": 103,
+    "2x_scope": 70,
+    "4x_scope": 54,
+    "8x_scope": 3,
+    "free_camera": 13
+  },
+  "Vivo Y20i": {
+    "general": 134,
+    "reddot": 106,
+    "2x_scope": 73,
+    "4x_scope": 57,
+    "8x_scope": 6,
+    "free_camera": 16
+  },
+  "Vivo Y19": {
+    "general": 126,
+    "reddot": 98,
+    "2x_scope": 65,
+    "4x_scope": 49,
+    "8x_scope": 20,
+    "free_camera": 9
+  },
+  "Vivo Y18": {
+    "general": 129,
+    "reddot": 101,
+    "2x_scope": 68,
+    "4x_scope": 52,
+    "8x_scope": 4,
+    "free_camera": 12
+  },
+  "Vivo Y17": {
+    "general": 132,
+    "reddot": 104,
+    "2x_scope": 71,
+    "4x_scope": 55,
+    "8x_scope": 19,
+    "free_camera": 14
+  },
+  "Vivo Y16": {
+    "general": 137,
+    "reddot": 109,
+    "2x_scope": 76,
+    "4x_scope": 60,
+    "8x_scope": 18,
+    "free_camera": 20
+  },
+  "Vivo Y15": {
+    "general": 142,
+    "reddot": 114,
+    "2x_scope": 81,
+    "4x_scope": 65,
+    "8x_scope": 16,
+    "free_camera": 22
+  },
+  "Vivo Y15s": {
+    "general": 147,
+    "reddot": 119,
+    "2x_scope": 86,
+    "4x_scope": 70,
+    "8x_scope": 14,
+    "free_camera": 26
+  },
+  "Vivo Y100": {
+    "general": 152,
+    "reddot": 124,
+    "2x_scope": 91,
+    "4x_scope": 75,
+    "8x_scope": 13,
+    "free_camera": 30
+  },
+  "Vivo Y200": {
+    "general": 157,
+    "reddot": 129,
+    "2x_scope": 96,
+    "4x_scope": 80,
+    "8x_scope": 15,
+    "free_camera": 35
+  },
+  "Vivo Y300": {
+    "general": 162,
+    "reddot": 134,
+    "2x_scope": 101,
+    "4x_scope": 85,
+    "8x_scope": 17,
+    "free_camera": 40
+  },
+  "Vivo Y02t": {
+    "general": 120,
+    "reddot": 100,
+    "2x_scope": 70,
+    "4x_scope": 60,
+    "8x_scope": 3,
+    "free_camera": 1
+  },
+  "Vivo Y03": {
+    "general": 125,
+    "reddot": 105,
+    "2x_scope": 75,
+    "4x_scope": 65,
+    "8x_scope": 5,
+    "free_camera": 5
+  },
+  "Vivo V30": {
+    "general": 169,
+    "reddot": 138,
+    "2x_scope": 112,
+    "4x_scope": 102,
+    "8x_scope": 18,
+    "free_camera": 38
+  },
+  "Vivo V30 Pro": {
+    "general": 174,
+    "reddot": 140,
+    "2x_scope": 117,
+    "4x_scope": 107,
+    "8x_scope": 17,
+    "free_camera": 39
+  },
+  "Vivo V30 Lite": {
+    "general": 164,
+    "reddot": 136,
+    "2x_scope": 109,
+    "4x_scope": 99,
+    "8x_scope": 16,
+    "free_camera": 37
+  },
+  "Vivo V29": {
+    "general": 167,
+    "reddot": 137,
+    "2x_scope": 110,
+    "4x_scope": 100,
+    "8x_scope": 15,
+    "free_camera": 36
+  },
+  "Vivo V29 Pro": {
+    "general": 172,
+    "reddot": 139,
+    "2x_scope": 115,
+    "4x_scope": 105,
+    "8x_scope": 14,
+    "free_camera": 35
+  },
+  "Vivo V29 Lite": {
+    "general": 159,
+    "reddot": 132,
+    "2x_scope": 103,
+    "4x_scope": 93,
+    "8x_scope": 13,
+    "free_camera": 34
+  },
+  "Vivo V27": {
+    "general": 162,
+    "reddot": 133,
+    "2x_scope": 105,
+    "4x_scope": 95,
+    "8x_scope": 12,
+    "free_camera": 33
+  },
+  "Vivo V27 Pro": {
+    "general": 166,
+    "reddot": 135,
+    "2x_scope": 108,
+    "4x_scope": 98,
+    "8x_scope": 11,
+    "free_camera": 32
+  },
+  "Vivo V25": {
+    "general": 157,
+    "reddot": 131,
+    "2x_scope": 103,
+    "4x_scope": 93,
+    "8x_scope": 10,
+    "free_camera": 31
+  },
+  "Vivo V25 Pro": {
+    "general": 161,
+    "reddot": 132,
+    "2x_scope": 104,
+    "4x_scope": 94,
+    "8x_scope": 9,
+    "free_camera": 30
+  },
+  "Vivo V23": {
+    "general": 152,
+    "reddot": 127,
+    "2x_scope": 99,
+    "4x_scope": 89,
+    "8x_scope": 8,
+    "free_camera": 28
+  },
+  "Vivo V23 Pro": {
+    "general": 155,
+    "reddot": 130,
+    "2x_scope": 102,
+    "4x_scope": 92,
+    "8x_scope": 7,
+    "free_camera": 27
+  },
+  "Vivo V21": {
+    "general": 147,
+    "reddot": 122,
+    "2x_scope": 94,
+    "4x_scope": 84,
+    "8x_scope": 6,
+    "free_camera": 26
+  },
+  "Vivo V21 5G": {
+    "general": 150,
+    "reddot": 125,
+    "2x_scope": 97,
+    "4x_scope": 87,
+    "8x_scope": 5,
+    "free_camera": 25
+  },
+  "Vivo V20": {
+    "general": 143,
+    "reddot": 117,
+    "2x_scope": 89,
+    "4x_scope": 79,
+    "8x_scope": 4,
+    "free_camera": 24
+  },
+  "Vivo V19": {
+    "general": 138,
+    "reddot": 112,
+    "2x_scope": 84,
+    "4x_scope": 74,
+    "8x_scope": 20,
+    "free_camera": 23
+  },
+  "Vivo X100": {
+    "general": 180,
+    "reddot": 140,
+    "2x_scope": 120,
+    "4x_scope": 110,
+    "8x_scope": 20,
+    "free_camera": 40
+  },
+  "Vivo X100 Pro": {
+    "general": 179,
+    "reddot": 139,
+    "2x_scope": 119,
+    "4x_scope": 109,
+    "8x_scope": 19,
+    "free_camera": 39
+  },
+  "Vivo X90": {
+    "general": 178,
+    "reddot": 138,
+    "2x_scope": 118,
+    "4x_scope": 108,
+    "8x_scope": 18,
+    "free_camera": 38
+  },
+  "Vivo X90 Pro": {
+    "general": 177,
+    "reddot": 137,
+    "2x_scope": 117,
+    "4x_scope": 107,
+    "8x_scope": 17,
+    "free_camera": 37
+  },
+  "Vivo X90 Pro+": {
+    "general": 176,
+    "reddot": 136,
+    "2x_scope": 116,
+    "4x_scope": 106,
+    "8x_scope": 16,
+    "free_camera": 36
+  },
+  "Vivo X80": {
+    "general": 175,
+    "reddot": 135,
+    "2x_scope": 115,
+    "4x_scope": 105,
+    "8x_scope": 15,
+    "free_camera": 35
+  },
+  "Vivo X80 Pro": {
+    "general": 174,
+    "reddot": 134,
+    "2x_scope": 114,
+    "4x_scope": 104,
+    "8x_scope": 14,
+    "free_camera": 34
+  },
+  "Vivo X70": {
+    "general": 173,
+    "reddot": 133,
+    "2x_scope": 113,
+    "4x_scope": 103,
+    "8x_scope": 13,
+    "free_camera": 33
+  },
+  "Vivo X70 Pro": {
+    "general": 172,
+    "reddot": 132,
+    "2x_scope": 112,
+    "4x_scope": 102,
+    "8x_scope": 12,
+    "free_camera": 32
+  },
+  "Vivo X60": {
+    "general": 171,
+    "reddot": 131,
+    "2x_scope": 111,
+    "4x_scope": 101,
+    "8x_scope": 11,
+    "free_camera": 31
+  },
+  "Vivo X60 Pro": {
+    "general": 170,
+    "reddot": 130,
+    "2x_scope": 110,
+    "4x_scope": 100,
+    "8x_scope": 10,
+    "free_camera": 30
+  },
+  "Vivo X50": {
+    "general": 168,
+    "reddot": 128,
+    "2x_scope": 108,
+    "4x_scope": 98,
+    "8x_scope": 9,
+    "free_camera": 29
+  },
+  "Vivo X50 Pro": {
+    "general": 165,
+    "reddot": 126,
+    "2x_scope": 106,
+    "4x_scope": 96,
+    "8x_scope": 8,
+    "free_camera": 28
+  },
+  "Vivo T3": {
+    "general": 165,
+    "reddot": 134,
+    "2x_scope": 113,
+    "4x_scope": 103,
+    "8x_scope": 13,
+    "free_camera": 34
+  },
+  "Vivo T3 Pro": {
+    "general": 170,
+    "reddot": 137,
+    "2x_scope": 116,
+    "4x_scope": 106,
+    "8x_scope": 14,
+    "free_camera": 35
+  },
+  "Vivo T3 Lite": {
+    "general": 160,
+    "reddot": 132,
+    "2x_scope": 111,
+    "4x_scope": 101,
+    "8x_scope": 12,
+    "free_camera": 33
+  },
+  "Vivo T2": {
+    "general": 158,
+    "reddot": 131,
+    "2x_scope": 109,
+    "4x_scope": 99,
+    "8x_scope": 11,
+    "free_camera": 32
+  },
+  "Vivo T2 Pro": {
+    "general": 163,
+    "reddot": 133,
+    "2x_scope": 112,
+    "4x_scope": 102,
+    "8x_scope": 10,
+    "free_camera": 31
+  },
+  "Vivo T2x": {
+    "general": 153,
+    "reddot": 127,
+    "2x_scope": 100,
+    "4x_scope": 90,
+    "8x_scope": 9,
+    "free_camera": 30
+  },
+  "Vivo T1": {
+    "general": 148,
+    "reddot": 122,
+    "2x_scope": 95,
+    "4x_scope": 85,
+    "8x_scope": 7,
+    "free_camera": 29
+  },
+  "Vivo T1 Pro": {
+    "general": 154,
+    "reddot": 129,
+    "2x_scope": 98,
+    "4x_scope": 88,
+    "8x_scope": 6,
+    "free_camera": 28
+  },
+  "iQOO 12": {
+    "general": 173,
+    "reddot": 140,
+    "2x_scope": 114,
+    "4x_scope": 104,
+    "8x_scope": 20,
+    "free_camera": 38
+  },
+  "iQOO 12 Pro": {
+    "general": 174,
+    "reddot": 140,
+    "2x_scope": 118,
+    "4x_scope": 108,
+    "8x_scope": 19,
+    "free_camera": 39
+  },
+  "iQOO 11": {
+    "general": 171,
+    "reddot": 139,
+    "2x_scope": 112,
+    "4x_scope": 102,
+    "8x_scope": 18,
+    "free_camera": 37
+  },
+  "iQOO 11 Pro": {
+    "general": 172,
+    "reddot": 140,
+    "2x_scope": 113,
+    "4x_scope": 103,
+    "8x_scope": 17,
+    "free_camera": 36
+  },
+  "iQOO Neo 9": {
+    "general": 168,
+    "reddot": 137,
+    "2x_scope": 109,
+    "4x_scope": 99,
+    "8x_scope": 16,
+    "free_camera": 35
+  },
+  "iQOO Neo 9 Pro": {
+    "general": 169,
+    "reddot": 138,
+    "2x_scope": 110,
+    "4x_scope": 100,
+    "8x_scope": 15,
+    "free_camera": 34
+  },
+  "iQOO Neo 9 Pro+": {
+    "general": 170,
+    "reddot": 139,
+    "2x_scope": 111,
+    "4x_scope": 101,
+    "8x_scope": 14,
+    "free_camera": 33
+  },
+  "iQOO Z9": {
+    "general": 155,
+    "reddot": 129,
+    "2x_scope": 98,
+    "4x_scope": 88,
+    "8x_scope": 13,
+    "free_camera": 31
+  },
+  "iQOO Z9 Turbo": {
+    "general": 158,
+    "reddot": 131,
+    "2x_scope": 101,
+    "4x_scope": 91,
+    "8x_scope": 14,
+    "free_camera": 33
+  },
+  "iQOO Z9s": {
+    "general": 161,
+    "reddot": 134,
+    "2x_scope": 104,
+    "4x_scope": 94,
+    "8x_scope": 12,
+    "free_camera": 32
+  },
+  "iQOO Z8": {
+    "general": 150,
+    "reddot": 124,
+    "2x_scope": 91,
+    "4x_scope": 81,
+    "8x_scope": 10,
+    "free_camera": 28
+  },
+  "iQOO Z8 Lite": {
+    "general": 145,
+    "reddot": 119,
+    "2x_scope": 86,
+    "4x_scope": 76,
+    "8x_scope": 8,
+    "free_camera": 25
+  },
+  "iQOO Z7": {
+    "general": 140,
+    "reddot": 114,
+    "2x_scope": 81,
+    "4x_scope": 71,
+    "8x_scope": 6,
+    "free_camera": 22
+  },
+  "iQOO Z7 Pro": {
+    "general": 146,
+    "reddot": 120,
+    "2x_scope": 89,
+    "4x_scope": 79,
+    "8x_scope": 7,
+    "free_camera": 26
+  },
+  "iQOO Z6": {
+    "general": 135,
+    "reddot": 107,
+    "2x_scope": 74,
+    "4x_scope": 58,
+    "8x_scope": 4,
+    "free_camera": 18
+  },
+  "iQOO Z6 Pro": {
+    "general": 142,
+    "reddot": 115,
+    "2x_scope": 82,
+    "4x_scope": 66,
+    "8x_scope": 5,
+    "free_camera": 20
+  },
+  "iQOO Z5": {
+    "general": 130,
+    "reddot": 102,
+    "2x_scope": 69,
+    "4x_scope": 53,
+    "8x_scope": 19,
+    "free_camera": 16
+  },
+  "iQOO 9": {
+    "general": 166,
+    "reddot": 135,
+    "2x_scope": 106,
+    "4x_scope": 96,
+    "8x_scope": 12,
+    "free_camera": 30
+  },
+  "iQOO 9 Pro": {
+    "general": 167,
+    "reddot": 136,
+    "2x_scope": 107,
+    "4x_scope": 97,
+    "8x_scope": 11,
+    "free_camera": 29
+  },
+  "iQOO 9 SE": {
+    "general": 163,
+    "reddot": 134,
+    "2x_scope": 105,
+    "4x_scope": 95,
+    "8x_scope": 10,
+    "free_camera": 28
+  },
+  "iQOO 7": {
+    "general": 161,
+    "reddot": 133,
+    "2x_scope": 102,
+    "4x_scope": 92,
+    "8x_scope": 9,
+    "free_camera": 27
+  },
+  "iQOO 7 Legend": {
+    "general": 164,
+    "reddot": 135,
+    "2x_scope": 106,
+    "4x_scope": 96,
+    "8x_scope": 8,
+    "free_camera": 26
+  },
+  "iQOO Z3": {
+    "general": 127,
+    "reddot": 99,
+    "2x_scope": 66,
+    "4x_scope": 50,
+    "8x_scope": 17,
+    "free_camera": 11
+  },
+  "iQOO Z1x": {
+    "general": 122,
+    "reddot": 95,
+    "2x_scope": 62,
+    "4x_scope": 46,
+    "8x_scope": 16,
+    "free_camera": 7
+  },
+  "Vivo V40": {
+    "general": 176,
+    "reddot": 140,
+    "2x_scope": 120,
+    "4x_scope": 110,
+    "8x_scope": 20,
+    "free_camera": 40
+  },
+  "Vivo V40 Pro": {
+    "general": 175,
+    "reddot": 139,
+    "2x_scope": 119,
+    "4x_scope": 109,
+    "8x_scope": 19,
+    "free_camera": 39
+  },
+  "Vivo V40 SE": {
+    "general": 154,
+    "reddot": 128,
+    "2x_scope": 96,
+    "4x_scope": 86,
+    "8x_scope": 18,
+    "free_camera": 38
+  },
+  "Vivo V10": {
+    "general": 124,
+    "reddot": 96,
+    "2x_scope": 63,
+    "4x_scope": 47,
+    "8x_scope": 15,
+    "free_camera": 8
+  },
+  "Vivo V11": {
+    "general": 128,
+    "reddot": 100,
+    "2x_scope": 67,
+    "4x_scope": 51,
+    "8x_scope": 14,
+    "free_camera": 10
+  },
+  "Vivo V15": {
+    "general": 133,
+    "reddot": 105,
+    "2x_scope": 72,
+    "4x_scope": 56,
+    "8x_scope": 13,
+    "free_camera": 12
+  },
+  "Vivo V17": {
+    "general": 140,
+    "reddot": 112,
+    "2x_scope": 79,
+    "4x_scope": 63,
+    "8x_scope": 12,
+    "free_camera": 14
+  },
+  "Vivo V20 Pro": {
+    "general": 145,
+    "reddot": 117,
+    "2x_scope": 84,
+    "4x_scope": 68,
+    "8x_scope": 11,
+    "free_camera": 16
+  },
+  "Vivo V50": {
+    "general": 177,
+    "reddot": 140,
+    "2x_scope": 118,
+    "4x_scope": 108,
+    "8x_scope": 17,
+    "free_camera": 37
+  },
+  "Vivo Y50": {
+    "general": 121,
+    "reddot": 101,
+    "2x_scope": 71,
+    "4x_scope": 61,
+    "8x_scope": 18,
+    "free_camera": 2
+  },
+  "Vivo Y91": {
+    "general": 123,
+    "reddot": 103,
+    "2x_scope": 73,
+    "4x_scope": 63,
+    "8x_scope": 19,
+    "free_camera": 3
+  },
+  "Vivo Y93": {
+    "general": 135,
+    "reddot": 107,
+    "2x_scope": 74,
+    "4x_scope": 64,
+    "8x_scope": 20,
+    "free_camera": 4
+  },
+  "Vivo Y95": {
+    "general": 148,
+    "reddot": 120,
+    "2x_scope": 87,
+    "4x_scope": 71,
+    "8x_scope": 16,
+    "free_camera": 6
+  },
+  "iQOO Neo 7": {
+    "general": 159,
+    "reddot": 130,
+    "2x_scope": 99,
+    "4x_scope": 89,
+    "8x_scope": 15,
+    "free_camera": 7
+  },
+  "iQOO Neo 6": {
+    "general": 156,
+    "reddot": 128,
+    "2x_scope": 97,
+    "4x_scope": 87,
+    "8x_scope": 13,
+    "free_camera": 9
+  },
+  "iQOO 10": {
+    "general": 178,
+    "reddot": 140,
+    "2x_scope": 117,
+    "4x_scope": 107,
+    "8x_scope": 12,
+    "free_camera": 11
+  },
+  "iQOO 10 Pro": {
+    "general": 179,
+    "reddot": 140,
+    "2x_scope": 120,
+    "4x_scope": 110,
+    "8x_scope": 11,
+    "free_camera": 13
+  },
+  "iQOO 10 Legend": {
+    "general": 180,
+    "reddot": 140,
+    "2x_scope": 119,
+    "4x_scope": 109,
+    "8x_scope": 10,
+    "free_camera": 15
+  },
+  "Vivo X Fold": {
+    "general": 175,
+    "reddot": 139,
+    "2x_scope": 116,
+    "4x_scope": 106,
+    "8x_scope": 9,
+    "free_camera": 17
+  },
+  "Vivo X Fold2": {
+    "general": 174,
+    "reddot": 138,
+    "2x_scope": 115,
+    "4x_scope": 105,
+    "8x_scope": 8,
+    "free_camera": 19
+  },
+  "Vivo X Fold3": {
+    "general": 173,
+    "reddot": 137,
+    "2x_scope": 114,
+    "4x_scope": 104,
+    "8x_scope": 7,
+    "free_camera": 21
+  },
+  "Vivo Y33s": {
+    "general": 166,
+    "reddot": 136,
+    "2x_scope": 107,
+    "4x_scope": 97,
+    "8x_scope": 6,
+    "free_camera": 22
+  },
+  "Vivo Y35": {
+    "general": 160,
+    "reddot": 133,
+    "2x_scope": 105,
+    "4x_scope": 95,
+    "8x_scope": 5,
+    "free_camera": 24
+  },
+  "Vivo Y36": {
+    "general": 165,
+    "reddot": 135,
+    "2x_scope": 108,
+    "4x_scope": 98,
+    "8x_scope": 4,
+    "free_camera": 26
+  },
+  "Vivo Y76s": {
+    "general": 153,
+    "reddot": 126,
+    "2x_scope": 93,
+    "4x_scope": 83,
+    "8x_scope": 3,
+    "free_camera": 28
+  },
+  "Vivo Y78": {
+    "general": 158,
+    "reddot": 132,
+    "2x_scope": 100,
+    "4x_scope": 90,
+    "8x_scope": 20,
+    "free_camera": 30
+  },
+  "Vivo Y83": {
+    "general": 143,
+    "reddot": 116,
+    "2x_scope": 82,
+    "4x_scope": 66,
+    "8x_scope": 19,
+    "free_camera": 32
+  },
+  "Vivo Y85": {
+    "general": 138,
+    "reddot": 110,
+    "2x_scope": 77,
+    "4x_scope": 61,
+    "8x_scope": 18,
+    "free_camera": 34
+  },
+  "Vivo Y93s": {
+    "general": 150,
+    "reddot": 125,
+    "2x_scope": 92,
+    "4x_scope": 82,
+    "8x_scope": 17,
+    "free_camera": 36
+  },
+  "iQOO Z6 Lite": {
+    "general": 137,
+    "reddot": 109,
+    "2x_scope": 76,
+    "4x_scope": 60,
+    "8x_scope": 16,
+    "free_camera": 38
+  },
+  "iQOO Z1s": {
+    "general": 144,
+    "reddot": 118,
+    "2x_scope": 85,
+    "4x_scope": 69,
+    "8x_scope": 15,
+    "free_camera": 40
+  },
+  "iQOO U1": {
+    "general": 121,
+    "reddot": 102,
+    "2x_scope": 72,
+    "4x_scope": 62,
+    "8x_scope": 14,
+    "free_camera": 37
+  },
+  "iQOO U3": {
+    "general": 128,
+    "reddot": 108,
+    "2x_scope": 79,
+    "4x_scope": 63,
+    "8x_scope": 13,
+    "free_camera": 35
+  },
+  "iQOO U5": {
+    "general": 133,
+    "reddot": 114,
+    "2x_scope": 80,
+    "4x_scope": 64,
+    "8x_scope": 12,
+    "free_camera": 33
+  },
+  "Vivo V3": {
+    "general": 125,
+    "reddot": 97,
+    "2x_scope": 64,
+    "4x_scope": 48,
+    "8x_scope": 11,
+    "free_camera": 31
+  },
+  "Vivo V3 Max": {
+    "general": 130,
+    "reddot": 104,
+    "2x_scope": 69,
+    "4x_scope": 53,
+    "8x_scope": 10,
+    "free_camera": 29
+  },
+  "Vivo V5": {
+    "general": 140,
+    "reddot": 115,
+    "2x_scope": 87,
+    "4x_scope": 71,
+    "8x_scope": 9,
+    "free_camera": 27
+  },
+  "Vivo V5 Plus": {
+    "general": 145,
+    "reddot": 120,
+    "2x_scope": 92,
+    "4x_scope": 76,
+    "8x_scope": 8,
+    "free_camera": 25
+  },
+  "Vivo V7": {
+    "general": 155,
+    "reddot": 127,
+    "2x_scope": 94,
+    "4x_scope": 78,
+    "8x_scope": 7,
+    "free_camera": 23
+  },
+  "Vivo V9": {
+    "general": 160,
+    "reddot": 134,
+    "2x_scope": 106,
+    "4x_scope": 90,
+    "8x_scope": 6,
+    "free_camera": 21
+  },
+  "Vivo V11 Pro": {
+    "general": 165,
+    "reddot": 136,
+    "2x_scope": 108,
+    "4x_scope": 92,
+    "8x_scope": 5,
+    "free_camera": 19
+  },
+  "Vivo V12": {
+    "general": 170,
+    "reddot": 138,
+    "2x_scope": 110,
+    "4x_scope": 94,
+    "8x_scope": 4,
+    "free_camera": 17
+  },
+  "Vivo V12 Pro": {
+    "general": 175,
+    "reddot": 140,
+    "2x_scope": 112,
+    "4x_scope": 96,
+    "8x_scope": 3,
+    "free_camera": 15
+  },
+  "Vivo V14": {
+    "general": 168,
+    "reddot": 137,
+    "2x_scope": 109,
+    "4x_scope": 93,
+    "8x_scope": 20,
+    "free_camera": 13
+  },
+  "Vivo V15 Pro": {
+    "general": 163,
+    "reddot": 135,
+    "2x_scope": 107,
+    "4x_scope": 91,
+    "8x_scope": 19,
+    "free_camera": 11
+  },
+  "Vivo V40 Lite": {
+    "general": 162,
+    "reddot": 134,
+    "2x_scope": 106,
+    "4x_scope": 90,
+    "8x_scope": 18,
+    "free_camera": 9
+  },
+  "Vivo Y90": {
+    "general": 122,
+    "reddot": 104,
+    "2x_scope": 74,
+    "4x_scope": 66,
+    "8x_scope": 17,
+    "free_camera": 7
+  },
+  "Vivo Y12": {
+    "general": 127,
+    "reddot": 110,
+    "2x_scope": 81,
+    "4x_scope": 73,
+    "8x_scope": 16,
+    "free_camera": 5
+  },
+  "Vivo Y11": {
+    "general": 132,
+    "reddot": 106,
+    "2x_scope": 72,
+    "4x_scope": 58,
+    "8x_scope": 15,
+    "free_camera": 3
+  },
+  "Vivo Y52": {
+    "general": 149,
+    "reddot": 122,
+    "2x_scope": 89,
+    "4x_scope": 77,
+    "8x_scope": 14,
+    "free_camera": 1
+  },
+  "Vivo Y53": {
+    "general": 154,
+    "reddot": 126,
+    "2x_scope": 93,
+    "4x_scope": 81,
+    "8x_scope": 13,
+    "free_camera": 2
+  },
+  "Vivo Y73": {
+    "general": 159,
+    "reddot": 133,
+    "2x_scope": 104,
+    "4x_scope": 92,
+    "8x_scope": 12,
+    "free_camera": 4
+  },
+  "Vivo Y75": {
+    "general": 164,
+    "reddot": 136,
+    "2x_scope": 107,
+    "4x_scope": 95,
+    "8x_scope": 11,
+    "free_camera": 6
+  },
+  "Vivo Y77": {
+    "general": 169,
+    "reddot": 138,
+    "2x_scope": 111,
+    "4x_scope": 99,
+    "8x_scope": 10,
+    "free_camera": 8
+  },
+  "Vivo Y79": {
+    "general": 174,
+    "reddot": 140,
+    "2x_scope": 116,
+    "4x_scope": 104,
+    "8x_scope": 9,
+    "free_camera": 10
+  },
+  "iQOO Neo 8": {
+    "general": 167,
+    "reddot": 137,
+    "2x_scope": 108,
+    "4x_scope": 98,
+    "8x_scope": 8,
+    "free_camera": 12
+  },
+  "iQOO Neo 8 Pro": {
+    "general": 172,
+    "reddot": 139,
+    "2x_scope": 114,
+    "4x_scope": 102,
+    "8x_scope": 7,
+    "free_camera": 14
+  },
+  "iQOO Z11": {
+    "general": 176,
+    "reddot": 140,
+    "2x_scope": 117,
+    "4x_scope": 105,
+    "8x_scope": 6,
+    "free_camera": 16
+  }
+}
+```

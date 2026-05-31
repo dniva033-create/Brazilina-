@@ -1,0 +1,48 @@
+{
+    "users": {
+        "6859793726": {
+            "step": "wait_token",
+            "token": "",
+            "verified": false,
+            "wrong": 2,
+            "device": "",
+            "ram": "",
+            "storage": "",
+            "hz": ""
+        }
+    },
+    "tokens": {
+        "VUGDXWFLLW28TV9LTH": {
+            "user_id": 6859793726,
+            "used": false,
+            "created_time": "2026-05-12T15:53:22.026493",
+            "expiry_time": "2026-05-13T03:53:22.026508"
+        }
+    },
+    "devices": {},
+    "6859793726": {
+        "step": "wait",
+        "pack": "HIGH SENSI",
+        "price": 49,
+        "bill_text": "\n\u2554\u2550\u2550\u2550\u2756\u2022\u0ccb\u00b0 \u00b0\u0ccb\u2022\u2756\u2550\u2550\u2550\u2557\n\n\ud83d\udcbc HIGH SENSI\n\n\ud83d\udccc CUSTOMER DETAILS\n\u2022 \ud83d\ude08\ud835\udc07\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc1e\ud835\udc2b \ud835\udc01\ud835\udc28\ud835\udc32 : \ud835\udc0f\ud835\udc11\ud835\udc00\ud835\udc13\ud835\udc08\ud835\udc0a \u2764\ufe0f\u2570\u2508\u27a4\ud83e\udd33 \ud835\ude4f\ud835\ude5a\ud835\ude58\ud835\ude5d \ud835\ude44\ud835\ude68 \ud835\ude48\ud835\ude6e \ud835\ude42\ud835\ude56\ud835\ude62\ud835\ude5a \ud83c\udfaf\n\u2022 6859793726\n\n\ud83d\udccc PACK DETAILS\n\u2022 HIGH SENSI\n\u2022 \u20b949\n\n\ud83d\udccc BILL\n\u2022 GST \u20b910\n\u2022 TOTAL \u20b959\n\u2022 18:44\n\u2022 29-05-2026\n\n\u255a\u2550\u2550\u2550\u2756\u2022\u0ccb\u00b0 \u00b0\u0ccb\u2022\u2756\u2550\u2550\u2550\u255d\n",
+        "utr": "838472938472",
+        "token": {
+            "value": "OM3R4IBE8R9FRYVW1U",
+            "used": false,
+            "created": "2026-05-29 18:45:26.075625"
+        },
+        "used": false
+    },
+    "7036024212": {
+        "step": "home",
+        "pack": "CONFIG SENSI",
+        "price": 99,
+        "bill_text": "\n\u2554\u2550\u2550\u2550\u2756\u2022\u0ccb\u00b0 \u00b0\u0ccb\u2022\u2756\u2550\u2550\u2550\u2557\n\n\ud83d\udcbc CONFIG SENSI\n\n\ud83d\udccc CUSTOMER DETAILS\n\u2022 \u1d4f\u2071\u207f\u1d4d\ud835\udd83 \ud83c\uddee\u200c\ud83c\uddee\u200c \ud835\udc00\ud835\udc25\ud835\udc29\ud835\udc21\ud835\udc1a\u1d4f\u2071\u207f\u1d4d \u1d52\u1da0 \u207f\u1d58\u1d50\u1d47\u1d49\u02b3\u02e2\n\u2022 7036024212\n\n\ud83d\udccc PACK DETAILS\n\u2022 CONFIG SENSI\n\u2022 \u20b999\n\n\ud83d\udccc BILL\n\u2022 GST \u20b910\n\u2022 TOTAL \u20b9109\n\u2022 23:01\n\u2022 20-05-2026\n\n\u255a\u2550\u2550\u2550\u2756\u2022\u0ccb\u00b0 \u00b0\u0ccb\u2022\u2756\u2550\u2550\u2550\u255d\n",
+        "utr": "657575675575",
+        "token": {
+            "value": "DKLLR00GEOHMK5G8QZ",
+            "used": false,
+            "created": "2026-05-20 23:03:17.712878"
+        }
+    }
+}

@@ -1,0 +1,559 @@
+nohup: ignoring input
+[H[2J[3J🔥 BOT STARTED 🔥
+Server closed the connection: [Errno 103] Software caused connection abort
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Automatic reconnection failed 5 time(s)
+💎 PREMIUM BOT V3 TOKEN FIXED 😈
+📡 TOKEN AUTO SYNC ENABLED
+🚀 BOT RUNNING
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/sensibot/bot.py", line 755, in <module>
+    client.run_until_disconnected()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/updates.py", line 105, in run_until_disconnected
+    return self.loop.run_until_complete(self._run_until_disconnected())
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/updates.py", line 521, in _keepalive_loop
+    await asyncio.wait_for(
+        self.disconnected, timeout=60
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/asyncio/tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+ConnectionError: Connection to Telegram failed 5 time(s)
+♻️ RESTARTING...
+[H[2J[3J🔥 BOT STARTED 🔥
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/sensibot/bot.py", line 154, in <module>
+    ).start(bot_token=bot_token)
+      ~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 128, in start
+    else self.loop.run_until_complete(coro)
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 135, in _start
+    await self.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 560, in connect
+    if not await self._sender.connect(self._connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )):
+    ^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 133, in connect
+    await self._connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 266, in _connect
+    raise ConnectionError('Connection to Telegram failed {} time(s)'.format(self._retries))
+ConnectionError: Connection to Telegram failed 5 time(s)
+♻️ RESTARTING...
+[H[2J[3J🔥 BOT STARTED 🔥
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/sensibot/bot.py", line 154, in <module>
+    ).start(bot_token=bot_token)
+      ~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 128, in start
+    else self.loop.run_until_complete(coro)
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 135, in _start
+    await self.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 560, in connect
+    if not await self._sender.connect(self._connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )):
+    ^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 133, in connect
+    await self._connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 266, in _connect
+    raise ConnectionError('Connection to Telegram failed {} time(s)'.format(self._retries))
+ConnectionError: Connection to Telegram failed 5 time(s)
+♻️ RESTARTING...
+[H[2J[3J🔥 BOT STARTED 🔥
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/sensibot/bot.py", line 154, in <module>
+    ).start(bot_token=bot_token)
+      ~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 128, in start
+    else self.loop.run_until_complete(coro)
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 135, in _start
+    await self.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 560, in connect
+    if not await self._sender.connect(self._connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )):
+    ^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 133, in connect
+    await self._connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 266, in _connect
+    raise ConnectionError('Connection to Telegram failed {} time(s)'.format(self._retries))
+ConnectionError: Connection to Telegram failed 5 time(s)
+♻️ RESTARTING...
+[H[2J[3J🔥 BOT STARTED 🔥
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/sensibot/bot.py", line 154, in <module>
+    ).start(bot_token=bot_token)
+      ~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 128, in start
+    else self.loop.run_until_complete(coro)
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 135, in _start
+    await self.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 560, in connect
+    if not await self._sender.connect(self._connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )):
+    ^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 133, in connect
+    await self._connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 266, in _connect
+    raise ConnectionError('Connection to Telegram failed {} time(s)'.format(self._retries))
+ConnectionError: Connection to Telegram failed 5 time(s)
+♻️ RESTARTING...
+[H[2J[3J🔥 BOT STARTED 🔥
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/sensibot/bot.py", line 154, in <module>
+    ).start(bot_token=bot_token)
+      ~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 128, in start
+    else self.loop.run_until_complete(coro)
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 135, in _start
+    await self.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 560, in connect
+    if not await self._sender.connect(self._connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )):
+    ^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 133, in connect
+    await self._connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 266, in _connect
+    raise ConnectionError('Connection to Telegram failed {} time(s)'.format(self._retries))
+ConnectionError: Connection to Telegram failed 5 time(s)
+♻️ RESTARTING...
+[H[2J[3J🔥 BOT STARTED 🔥
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/sensibot/bot.py", line 154, in <module>
+    ).start(bot_token=bot_token)
+      ~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 128, in start
+    else self.loop.run_until_complete(coro)
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 135, in _start
+    await self.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 560, in connect
+    if not await self._sender.connect(self._connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )):
+    ^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 133, in connect
+    await self._connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 266, in _connect
+    raise ConnectionError('Connection to Telegram failed {} time(s)'.format(self._retries))
+ConnectionError: Connection to Telegram failed 5 time(s)
+♻️ RESTARTING...
+[H[2J[3J🔥 BOT STARTED 🔥
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/sensibot/bot.py", line 154, in <module>
+    ).start(bot_token=bot_token)
+      ~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 128, in start
+    else self.loop.run_until_complete(coro)
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 135, in _start
+    await self.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 560, in connect
+    if not await self._sender.connect(self._connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )):
+    ^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 133, in connect
+    await self._connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 266, in _connect
+    raise ConnectionError('Connection to Telegram failed {} time(s)'.format(self._retries))
+ConnectionError: Connection to Telegram failed 5 time(s)
+♻️ RESTARTING...
+[H[2J[3J🔥 BOT STARTED 🔥
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/sensibot/bot.py", line 154, in <module>
+    ).start(bot_token=bot_token)
+      ~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 128, in start
+    else self.loop.run_until_complete(coro)
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 135, in _start
+    await self.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 560, in connect
+    if not await self._sender.connect(self._connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )):
+    ^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 133, in connect
+    await self._connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 266, in _connect
+    raise ConnectionError('Connection to Telegram failed {} time(s)'.format(self._retries))
+ConnectionError: Connection to Telegram failed 5 time(s)
+♻️ RESTARTING...
+[H[2J[3J🔥 BOT STARTED 🔥
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/sensibot/bot.py", line 154, in <module>
+    ).start(bot_token=bot_token)
+      ~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 128, in start
+    else self.loop.run_until_complete(coro)
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 135, in _start
+    await self.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 560, in connect
+    if not await self._sender.connect(self._connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )):
+    ^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 133, in connect
+    await self._connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 266, in _connect
+    raise ConnectionError('Connection to Telegram failed {} time(s)'.format(self._retries))
+ConnectionError: Connection to Telegram failed 5 time(s)
+♻️ RESTARTING...
+[H[2J[3J🔥 BOT STARTED 🔥
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Server closed the connection: [Errno 103] Software caused connection abort
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Automatic reconnection failed 5 time(s)
+💎 PREMIUM BOT V3 TOKEN FIXED 😈
+📡 TOKEN AUTO SYNC ENABLED
+🚀 BOT RUNNING
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/sensibot/bot.py", line 755, in <module>
+    client.run_until_disconnected()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/updates.py", line 105, in run_until_disconnected
+    return self.loop.run_until_complete(self._run_until_disconnected())
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/updates.py", line 521, in _keepalive_loop
+    await asyncio.wait_for(
+        self.disconnected, timeout=60
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/asyncio/tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+ConnectionError: Connection to Telegram failed 5 time(s)
+♻️ RESTARTING...
+[H[2J[3J🔥 BOT STARTED 🔥
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/sensibot/bot.py", line 154, in <module>
+    ).start(bot_token=bot_token)
+      ~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 128, in start
+    else self.loop.run_until_complete(coro)
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 135, in _start
+    await self.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 560, in connect
+    if not await self._sender.connect(self._connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )):
+    ^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 133, in connect
+    await self._connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 266, in _connect
+    raise ConnectionError('Connection to Telegram failed {} time(s)'.format(self._retries))
+ConnectionError: Connection to Telegram failed 5 time(s)
+♻️ RESTARTING...
+[H[2J[3J🔥 BOT STARTED 🔥
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/sensibot/bot.py", line 154, in <module>
+    ).start(bot_token=bot_token)
+      ~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 128, in start
+    else self.loop.run_until_complete(coro)
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 135, in _start
+    await self.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 560, in connect
+    if not await self._sender.connect(self._connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )):
+    ^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 133, in connect
+    await self._connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 266, in _connect
+    raise ConnectionError('Connection to Telegram failed {} time(s)'.format(self._retries))
+ConnectionError: Connection to Telegram failed 5 time(s)
+♻️ RESTARTING...
+[H[2J[3J🔥 BOT STARTED 🔥
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/sensibot/bot.py", line 154, in <module>
+    ).start(bot_token=bot_token)
+      ~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 128, in start
+    else self.loop.run_until_complete(coro)
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/auth.py", line 135, in _start
+    await self.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 560, in connect
+    if not await self._sender.connect(self._connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )):
+    ^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 133, in connect
+    await self._connect()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/network/mtprotosender.py", line 266, in _connect
+    raise ConnectionError('Connection to Telegram failed {} time(s)'.format(self._retries))
+ConnectionError: Connection to Telegram failed 5 time(s)
+♻️ RESTARTING...
+[H[2J[3J🔥 BOT STARTED 🔥
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Server closed the connection: [Errno 103] Software caused connection abort
+Server closed the connection: [Errno 103] Software caused connection abort
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Server closed the connection: [Errno 103] Software caused connection abort
+Server closed the connection: [Errno 103] Software caused connection abort
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Server closed the connection: [Errno 103] Software caused connection abort
+Server closed the connection: [Errno 103] Software caused connection abort
+Server closed the connection: [Errno 103] Software caused connection abort
+Server closed the connection: [Errno 103] Software caused connection abort
+Server closed the connection: [Errno 103] Software caused connection abort
+Server closed the connection: [Errno 103] Software caused connection abort
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Server closed the connection: [Errno 103] Software caused connection abort
+Server closed the connection: [Errno 103] Software caused connection abort
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Server closed the connection: [Errno 103] Software caused connection abort
+Server closed the connection: [Errno 103] Software caused connection abort
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Server closed the connection: [Errno 103] Software caused connection abort
+Server closed the connection: [Errno 103] Software caused connection abort
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Server closed the connection: [Errno 103] Software caused connection abort
+Server closed the connection: [Errno 103] Software caused connection abort
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Terminated                 python bot.py
+♻️ RESTARTING...
+[H[2J[3J🔥 BOT STARTED 🔥
+Server closed the connection: [Errno 103] Software caused connection abort
+Server closed the connection: [Errno 103] Software caused connection abort
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Server closed the connection: [Errno 103] Software caused connection abort
+Server closed the connection: [Errno 103] Software caused connection abort
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+Server closed the connection: [Errno 103] Software caused connection abort
+Server closed the connection: [Errno 103] Software caused connection abort
+Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+Server closed the connection: [Errno 103] Software caused connection abort
+Server closed the connection: 0 bytes read on a total of 8 expected bytes
+Server closed the connection: 0 bytes read on a total of 8 expected bytes
+Attempt 1 at connecting failed: TimeoutError: 
+Attempt 2 at connecting failed: TimeoutError: 
+Server closed the connection: [Errno 104] Connection reset by peer

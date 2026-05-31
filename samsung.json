@@ -1,0 +1,786 @@
+{
+  "Galaxy A05": {
+    "general": 153,
+    "reddot": 125,
+    "2x_scope": 91,
+    "4x_scope": 75,
+    "8x_scope": 13,
+    "free_camera": 30
+  },
+  "Galaxy A05s": {
+    "general": 158,
+    "reddot": 130,
+    "2x_scope": 95,
+    "4x_scope": 80,
+    "8x_scope": 18,
+    "free_camera": 35
+  },
+  "Galaxy A15": {
+    "general": 162,
+    "reddot": 135,
+    "2x_scope": 98,
+    "4x_scope": 82,
+    "8x_scope": 15,
+    "free_camera": 32
+  },
+  "Galaxy A15 5G": {
+    "general": 165,
+    "reddot": 138,
+    "2x_scope": 100,
+    "4x_scope": 85,
+    "8x_scope": 17,
+    "free_camera": 34
+  },
+  "Galaxy A25": {
+    "general": 168,
+    "reddot": 132,
+    "2x_scope": 102,
+    "4x_scope": 88,
+    "8x_scope": 19,
+    "free_camera": 37
+  },
+  "Galaxy A35": {
+    "general": 172,
+    "reddot": 136,
+    "2x_scope": 105,
+    "4x_scope": 90,
+    "8x_scope": 14,
+    "free_camera": 31
+  },
+  "Galaxy A35 5G": {
+    "general": 175,
+    "reddot": 139,
+    "2x_scope": 108,
+    "4x_scope": 92,
+    "8x_scope": 16,
+    "free_camera": 33
+  },
+  "Galaxy A55": {
+    "general": 178,
+    "reddot": 140,
+    "2x_scope": 110,
+    "4x_scope": 95,
+    "8x_scope": 20,
+    "free_camera": 38
+  },
+  "Galaxy A55 5G": {
+    "general": 170,
+    "reddot": 134,
+    "2x_scope": 106,
+    "4x_scope": 89,
+    "8x_scope": 12,
+    "free_camera": 29
+  },
+  "Galaxy A56": {
+    "general": 174,
+    "reddot": 137,
+    "2x_scope": 109,
+    "4x_scope": 93,
+    "8x_scope": 18,
+    "free_camera": 36
+  },
+  "Galaxy A10": {
+    "general": 120,
+    "reddot": 100,
+    "2x_scope": 70,
+    "4x_scope": 60,
+    "8x_scope": 3,
+    "free_camera": 1
+  },
+  "Galaxy A10s": {
+    "general": 125,
+    "reddot": 105,
+    "2x_scope": 75,
+    "4x_scope": 65,
+    "8x_scope": 5,
+    "free_camera": 5
+  },
+  "Galaxy A20": {
+    "general": 130,
+    "reddot": 110,
+    "2x_scope": 80,
+    "4x_scope": 70,
+    "8x_scope": 8,
+    "free_camera": 10
+  },
+  "Galaxy A20s": {
+    "general": 135,
+    "reddot": 115,
+    "2x_scope": 85,
+    "4x_scope": 75,
+    "8x_scope": 10,
+    "free_camera": 15
+  },
+  "Galaxy A21": {
+    "general": 140,
+    "reddot": 118,
+    "2x_scope": 88,
+    "4x_scope": 78,
+    "8x_scope": 12,
+    "free_camera": 18
+  },
+  "Galaxy A21s": {
+    "general": 145,
+    "reddot": 120,
+    "2x_scope": 90,
+    "4x_scope": 80,
+    "8x_scope": 14,
+    "free_camera": 20
+  },
+  "Galaxy A30": {
+    "general": 148,
+    "reddot": 122,
+    "2x_scope": 92,
+    "4x_scope": 82,
+    "8x_scope": 15,
+    "free_camera": 22
+  },
+  "Galaxy A30s": {
+    "general": 150,
+    "reddot": 124,
+    "2x_scope": 94,
+    "4x_scope": 84,
+    "8x_scope": 16,
+    "free_camera": 24
+  },
+  "Galaxy A40": {
+    "general": 152,
+    "reddot": 126,
+    "2x_scope": 96,
+    "4x_scope": 86,
+    "8x_scope": 17,
+    "free_camera": 26
+  },
+  "Galaxy A50": {
+    "general": 155,
+    "reddot": 128,
+    "2x_scope": 98,
+    "4x_scope": 88,
+    "8x_scope": 18,
+    "free_camera": 28
+  },
+  "Galaxy A51": {
+    "general": 160,
+    "reddot": 131,
+    "2x_scope": 101,
+    "4x_scope": 91,
+    "8x_scope": 19,
+    "free_camera": 33
+  },
+  "Galaxy A52": {
+    "general": 163,
+    "reddot": 133,
+    "2x_scope": 103,
+    "4x_scope": 93,
+    "8x_scope": 11,
+    "free_camera": 25
+  },
+  "Galaxy A52 5G": {
+    "general": 166,
+    "reddot": 135,
+    "2x_scope": 105,
+    "4x_scope": 95,
+    "8x_scope": 13,
+    "free_camera": 27
+  },
+  "Galaxy A53": {
+    "general": 169,
+    "reddot": 137,
+    "2x_scope": 107,
+    "4x_scope": 97,
+    "8x_scope": 15,
+    "free_camera": 29
+  },
+  "Galaxy A54": {
+    "general": 171,
+    "reddot": 138,
+    "2x_scope": 109,
+    "4x_scope": 99,
+    "8x_scope": 17,
+    "free_camera": 31
+  },
+  "Galaxy A70": {
+    "general": 176,
+    "reddot": 140,
+    "2x_scope": 112,
+    "4x_scope": 102,
+    "8x_scope": 19,
+    "free_camera": 39
+  },
+  "Galaxy A71": {
+    "general": 173,
+    "reddot": 136,
+    "2x_scope": 108,
+    "4x_scope": 94,
+    "8x_scope": 16,
+    "free_camera": 34
+  },
+  "Galaxy A73": {
+    "general": 177,
+    "reddot": 139,
+    "2x_scope": 111,
+    "4x_scope": 101,
+    "8x_scope": 20,
+    "free_camera": 40
+  },
+  "Galaxy A90 5G": {
+    "general": 179,
+    "reddot": 140,
+    "2x_scope": 115,
+    "4x_scope": 105,
+    "8x_scope": 18,
+    "free_camera": 37
+  },
+  "Galaxy M01": {
+    "general": 122,
+    "reddot": 102,
+    "2x_scope": 72,
+    "4x_scope": 62,
+    "8x_scope": 4,
+    "free_camera": 2
+  },
+  "Galaxy M02": {
+    "general": 127,
+    "reddot": 107,
+    "2x_scope": 77,
+    "4x_scope": 67,
+    "8x_scope": 6,
+    "free_camera": 6
+  },
+  "Galaxy M11": {
+    "general": 132,
+    "reddot": 112,
+    "2x_scope": 82,
+    "4x_scope": 72,
+    "8x_scope": 9,
+    "free_camera": 12
+  },
+  "Galaxy M12": {
+    "general": 137,
+    "reddot": 117,
+    "2x_scope": 87,
+    "4x_scope": 77,
+    "8x_scope": 11,
+    "free_camera": 16
+  },
+  "Galaxy M21": {
+    "general": 142,
+    "reddot": 119,
+    "2x_scope": 89,
+    "4x_scope": 79,
+    "8x_scope": 13,
+    "free_camera": 19
+  },
+  "Galaxy M31": {
+    "general": 147,
+    "reddot": 121,
+    "2x_scope": 91,
+    "4x_scope": 81,
+    "8x_scope": 15,
+    "free_camera": 21
+  },
+  "Galaxy M32": {
+    "general": 149,
+    "reddot": 123,
+    "2x_scope": 93,
+    "4x_scope": 83,
+    "8x_scope": 16,
+    "free_camera": 23
+  },
+  "Galaxy M34": {
+    "general": 151,
+    "reddot": 125,
+    "2x_scope": 95,
+    "4x_scope": 85,
+    "8x_scope": 17,
+    "free_camera": 25
+  },
+  "Galaxy M35": {
+    "general": 154,
+    "reddot": 127,
+    "2x_scope": 97,
+    "4x_scope": 87,
+    "8x_scope": 18,
+    "free_camera": 27
+  },
+  "Galaxy M51": {
+    "general": 157,
+    "reddot": 129,
+    "2x_scope": 99,
+    "4x_scope": 89,
+    "8x_scope": 19,
+    "free_camera": 32
+  },
+  "Galaxy M52 5G": {
+    "general": 159,
+    "reddot": 131,
+    "2x_scope": 101,
+    "4x_scope": 91,
+    "8x_scope": 12,
+    "free_camera": 26
+  },
+  "Galaxy M53": {
+    "general": 161,
+    "reddot": 133,
+    "2x_scope": 103,
+    "4x_scope": 93,
+    "8x_scope": 14,
+    "free_camera": 28
+  },
+  "Galaxy M54": {
+    "general": 164,
+    "reddot": 135,
+    "2x_scope": 105,
+    "4x_scope": 95,
+    "8x_scope": 16,
+    "free_camera": 30
+  },
+  "Galaxy F04": {
+    "general": 123,
+    "reddot": 103,
+    "2x_scope": 73,
+    "4x_scope": 63,
+    "8x_scope": 5,
+    "free_camera": 3
+  },
+  "Galaxy F14": {
+    "general": 128,
+    "reddot": 108,
+    "2x_scope": 78,
+    "4x_scope": 68,
+    "8x_scope": 7,
+    "free_camera": 7
+  },
+  "Galaxy F15": {
+    "general": 133,
+    "reddot": 113,
+    "2x_scope": 83,
+    "4x_scope": 73,
+    "8x_scope": 10,
+    "free_camera": 13
+  },
+  "Galaxy F22": {
+    "general": 138,
+    "reddot": 118,
+    "2x_scope": 88,
+    "4x_scope": 78,
+    "8x_scope": 12,
+    "free_camera": 17
+  },
+  "Galaxy F23": {
+    "general": 143,
+    "reddot": 120,
+    "2x_scope": 90,
+    "4x_scope": 80,
+    "8x_scope": 14,
+    "free_camera": 20
+  },
+  "Galaxy F34": {
+    "general": 146,
+    "reddot": 122,
+    "2x_scope": 92,
+    "4x_scope": 82,
+    "8x_scope": 15,
+    "free_camera": 22
+  },
+  "Galaxy F54": {
+    "general": 152,
+    "reddot": 126,
+    "2x_scope": 96,
+    "4x_scope": 86,
+    "8x_scope": 17,
+    "free_camera": 24
+  },
+  "Galaxy S10": {
+    "general": 180,
+    "reddot": 140,
+    "2x_scope": 120,
+    "4x_scope": 110,
+    "8x_scope": 20,
+    "free_camera": 40
+  },
+  "Galaxy S10+": {
+    "general": 179,
+    "reddot": 139,
+    "2x_scope": 119,
+    "4x_scope": 109,
+    "8x_scope": 19,
+    "free_camera": 39
+  },
+  "Galaxy S10e": {
+    "general": 178,
+    "reddot": 138,
+    "2x_scope": 118,
+    "4x_scope": 108,
+    "8x_scope": 18,
+    "free_camera": 38
+  },
+  "Galaxy S20": {
+    "general": 177,
+    "reddot": 137,
+    "2x_scope": 117,
+    "4x_scope": 107,
+    "8x_scope": 17,
+    "free_camera": 37
+  },
+  "Galaxy S20+": {
+    "general": 176,
+    "reddot": 136,
+    "2x_scope": 116,
+    "4x_scope": 106,
+    "8x_scope": 16,
+    "free_camera": 36
+  },
+  "Galaxy S20 Ultra": {
+    "general": 175,
+    "reddot": 135,
+    "2x_scope": 115,
+    "4x_scope": 105,
+    "8x_scope": 15,
+    "free_camera": 35
+  },
+  "Galaxy S21": {
+    "general": 174,
+    "reddot": 134,
+    "2x_scope": 114,
+    "4x_scope": 104,
+    "8x_scope": 14,
+    "free_camera": 34
+  },
+  "Galaxy S21+": {
+    "general": 173,
+    "reddot": 133,
+    "2x_scope": 113,
+    "4x_scope": 103,
+    "8x_scope": 13,
+    "free_camera": 33
+  },
+  "Galaxy S21 Ultra": {
+    "general": 172,
+    "reddot": 132,
+    "2x_scope": 112,
+    "4x_scope": 102,
+    "8x_scope": 12,
+    "free_camera": 32
+  },
+  "Galaxy S22": {
+    "general": 171,
+    "reddot": 131,
+    "2x_scope": 111,
+    "4x_scope": 101,
+    "8x_scope": 11,
+    "free_camera": 31
+  },
+  "Galaxy S22+": {
+    "general": 170,
+    "reddot": 130,
+    "2x_scope": 110,
+    "4x_scope": 100,
+    "8x_scope": 10,
+    "free_camera": 30
+  },
+  "Galaxy S22 Ultra": {
+    "general": 169,
+    "reddot": 129,
+    "2x_scope": 109,
+    "4x_scope": 99,
+    "8x_scope": 9,
+    "free_camera": 29
+  },
+  "Galaxy S23": {
+    "general": 168,
+    "reddot": 128,
+    "2x_scope": 108,
+    "4x_scope": 98,
+    "8x_scope": 8,
+    "free_camera": 28
+  },
+  "Galaxy S23+": {
+    "general": 167,
+    "reddot": 127,
+    "2x_scope": 107,
+    "4x_scope": 97,
+    "8x_scope": 7,
+    "free_camera": 27
+  },
+  "Galaxy S23 Ultra": {
+    "general": 166,
+    "reddot": 126,
+    "2x_scope": 106,
+    "4x_scope": 96,
+    "8x_scope": 6,
+    "free_camera": 26
+  },
+  "Galaxy S24": {
+    "general": 165,
+    "reddot": 125,
+    "2x_scope": 105,
+    "4x_scope": 95,
+    "8x_scope": 5,
+    "free_camera": 25
+  },
+  "Galaxy S24+": {
+    "general": 164,
+    "reddot": 124,
+    "2x_scope": 104,
+    "4x_scope": 94,
+    "8x_scope": 4,
+    "free_camera": 24
+  },
+  "Galaxy S24 Ultra": {
+    "general": 163,
+    "reddot": 123,
+    "2x_scope": 103,
+    "4x_scope": 93,
+    "8x_scope": 3,
+    "free_camera": 23
+  },
+  "Galaxy Note10": {
+    "general": 162,
+    "reddot": 122,
+    "2x_scope": 102,
+    "4x_scope": 92,
+    "8x_scope": 20,
+    "free_camera": 22
+  },
+  "Galaxy Note10+": {
+    "general": 161,
+    "reddot": 121,
+    "2x_scope": 101,
+    "4x_scope": 91,
+    "8x_scope": 19,
+    "free_camera": 21
+  },
+  "Galaxy Note20": {
+    "general": 160,
+    "reddot": 120,
+    "2x_scope": 100,
+    "4x_scope": 90,
+    "8x_scope": 18,
+    "free_camera": 20
+  },
+  "Galaxy Note20 Ultra": {
+    "general": 159,
+    "reddot": 119,
+    "2x_scope": 99,
+    "4x_scope": 89,
+    "8x_scope": 17,
+    "free_camera": 19
+  },
+  "Galaxy Z Fold2": {
+    "general": 158,
+    "reddot": 118,
+    "2x_scope": 98,
+    "4x_scope": 88,
+    "8x_scope": 16,
+    "free_camera": 18
+  },
+  "Galaxy Z Fold3": {
+    "general": 157,
+    "reddot": 117,
+    "2x_scope": 97,
+    "4x_scope": 87,
+    "8x_scope": 15,
+    "free_camera": 17
+  },
+  "Galaxy Z Fold4": {
+    "general": 156,
+    "reddot": 116,
+    "2x_scope": 96,
+    "4x_scope": 86,
+    "8x_scope": 14,
+    "free_camera": 16
+  },
+  "Galaxy Z Fold5": {
+    "general": 155,
+    "reddot": 115,
+    "2x_scope": 95,
+    "4x_scope": 85,
+    "8x_scope": 13,
+    "free_camera": 15
+  },
+  "Galaxy Z Fold6": {
+    "general": 154,
+    "reddot": 114,
+    "2x_scope": 94,
+    "4x_scope": 84,
+    "8x_scope": 12,
+    "free_camera": 14
+  },
+  "Galaxy Z Flip": {
+    "general": 153,
+    "reddot": 113,
+    "2x_scope": 93,
+    "4x_scope": 83,
+    "8x_scope": 11,
+    "free_camera": 13
+  },
+  "Galaxy Z Flip3": {
+    "general": 152,
+    "reddot": 112,
+    "2x_scope": 92,
+    "4x_scope": 82,
+    "8x_scope": 10,
+    "free_camera": 12
+  },
+  "Galaxy Z Flip4": {
+    "general": 151,
+    "reddot": 111,
+    "2x_scope": 91,
+    "4x_scope": 81,
+    "8x_scope": 9,
+    "free_camera": 11
+  },
+  "Galaxy Z Flip5": {
+    "general": 150,
+    "reddot": 110,
+    "2x_scope": 90,
+    "4x_scope": 80,
+    "8x_scope": 8,
+    "free_camera": 10
+  },
+  "Galaxy Z Flip6": {
+    "general": 149,
+    "reddot": 109,
+    "2x_scope": 89,
+    "4x_scope": 79,
+    "8x_scope": 7,
+    "free_camera": 9
+  },
+  "Galaxy J1": {
+    "general": 121,
+    "reddot": 101,
+    "2x_scope": 71,
+    "4x_scope": 61,
+    "8x_scope": 3,
+    "free_camera": 4
+  },
+  "Galaxy J2": {
+    "general": 124,
+    "reddot": 104,
+    "2x_scope": 74,
+    "4x_scope": 64,
+    "8x_scope": 6,
+    "free_camera": 8
+  },
+  "Galaxy J3": {
+    "general": 126,
+    "reddot": 106,
+    "2x_scope": 76,
+    "4x_scope": 66,
+    "8x_scope": 8,
+    "free_camera": 11
+  },
+  "Galaxy J5": {
+    "general": 129,
+    "reddot": 109,
+    "2x_scope": 79,
+    "4x_scope": 69,
+    "8x_scope": 10,
+    "free_camera": 14
+  },
+  "Galaxy J7": {
+    "general": 134,
+    "reddot": 114,
+    "2x_scope": 84,
+    "4x_scope": 74,
+    "8x_scope": 13,
+    "free_camera": 18
+  },
+  "Galaxy Ace": {
+    "general": 120,
+    "reddot": 100,
+    "2x_scope": 70,
+    "4x_scope": 60,
+    "8x_scope": 4,
+    "free_camera": 5
+  },
+  "Galaxy Ace 2": {
+    "general": 122,
+    "reddot": 102,
+    "2x_scope": 72,
+    "4x_scope": 62,
+    "8x_scope": 5,
+    "free_camera": 6
+  },
+  "Galaxy Young": {
+    "general": 123,
+    "reddot": 103,
+    "2x_scope": 73,
+    "4x_scope": 63,
+    "8x_scope": 6,
+    "free_camera": 7
+  },
+  "Galaxy Star": {
+    "general": 124,
+    "reddot": 104,
+    "2x_scope": 74,
+    "4x_scope": 64,
+    "8x_scope": 7,
+    "free_camera": 8
+  },
+  "Galaxy Grand": {
+    "general": 125,
+    "reddot": 105,
+    "2x_scope": 75,
+    "4x_scope": 65,
+    "8x_scope": 8,
+    "free_camera": 9
+  },
+  "Galaxy Grand 2": {
+    "general": 126,
+    "reddot": 106,
+    "2x_scope": 76,
+    "4x_scope": 66,
+    "8x_scope": 9,
+    "free_camera": 10
+  },
+  "Galaxy Core": {
+    "general": 127,
+    "reddot": 107,
+    "2x_scope": 77,
+    "4x_scope": 67,
+    "8x_scope": 10,
+    "free_camera": 11
+  },
+  "Galaxy On7": {
+    "general": 128,
+    "reddot": 108,
+    "2x_scope": 78,
+    "4x_scope": 68,
+    "8x_scope": 11,
+    "free_camera": 12
+  },
+  "Galaxy Tab S6": {
+    "general": 130,
+    "reddot": 110,
+    "2x_scope": 80,
+    "4x_scope": 70,
+    "8x_scope": 12,
+    "free_camera": 13
+  },
+  "Galaxy Tab S7": {
+    "general": 132,
+    "reddot": 112,
+    "2x_scope": 82,
+    "4x_scope": 72,
+    "8x_scope": 13,
+    "free_camera": 14
+  },
+  "Galaxy Tab S8": {
+    "general": 134,
+    "reddot": 114,
+    "2x_scope": 84,
+    "4x_scope": 74,
+    "8x_scope": 14,
+    "free_camera": 15
+  },
+  "Galaxy Tab S9": {
+    "general": 136,
+    "reddot": 116,
+    "2x_scope": 86,
+    "4x_scope": 76,
+    "8x_scope": 15,
+    "free_camera": 16
+  }
+}

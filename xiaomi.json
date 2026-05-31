@@ -1,0 +1,498 @@
+{
+  "Redmi Note 13": {
+    "general": 154,
+    "reddot": 126,
+    "2x_scope": 92,
+    "4x_scope": 76,
+    "8x_scope": 13,
+    "free_camera": 31
+  },
+  "Redmi Note 13 Pro": {
+    "general": 159,
+    "reddot": 131,
+    "2x_scope": 97,
+    "4x_scope": 81,
+    "8x_scope": 18,
+    "free_camera": 36
+  },
+  "Redmi Note 13 Pro+": {
+    "general": 164,
+    "reddot": 136,
+    "2x_scope": 102,
+    "4x_scope": 86,
+    "8x_scope": 15,
+    "free_camera": 33
+  },
+  "Redmi Note 12": {
+    "general": 149,
+    "reddot": 121,
+    "2x_scope": 87,
+    "4x_scope": 71,
+    "8x_scope": 10,
+    "free_camera": 28
+  },
+  "Redmi Note 12 Pro": {
+    "general": 152,
+    "reddot": 124,
+    "2x_scope": 90,
+    "4x_scope": 74,
+    "8x_scope": 12,
+    "free_camera": 29
+  },
+  "Redmi Note 12 Pro+": {
+    "general": 157,
+    "reddot": 129,
+    "2x_scope": 95,
+    "4x_scope": 79,
+    "8x_scope": 16,
+    "free_camera": 34
+  },
+  "Redmi Note 11": {
+    "general": 144,
+    "reddot": 116,
+    "2x_scope": 82,
+    "4x_scope": 66,
+    "8x_scope": 8,
+    "free_camera": 25
+  },
+  "Redmi Note 11 Pro": {
+    "general": 147,
+    "reddot": 119,
+    "2x_scope": 85,
+    "4x_scope": 69,
+    "8x_scope": 11,
+    "free_camera": 27
+  },
+  "Redmi Note 11S": {
+    "general": 150,
+    "reddot": 122,
+    "2x_scope": 88,
+    "4x_scope": 72,
+    "8x_scope": 14,
+    "free_camera": 30
+  },
+  "Redmi Note 10": {
+    "general": 139,
+    "reddot": 111,
+    "2x_scope": 77,
+    "4x_scope": 61,
+    "8x_scope": 6,
+    "free_camera": 22
+  },
+  "Redmi Note 10 Pro": {
+    "general": 142,
+    "reddot": 114,
+    "2x_scope": 80,
+    "4x_scope": 64,
+    "8x_scope": 9,
+    "free_camera": 24
+  },
+  "Redmi Note 9": {
+    "general": 134,
+    "reddot": 106,
+    "2x_scope": 72,
+    "4x_scope": 56,
+    "8x_scope": 4,
+    "free_camera": 19
+  },
+  "Redmi Note 9 Pro": {
+    "general": 137,
+    "reddot": 109,
+    "2x_scope": 75,
+    "4x_scope": 59,
+    "8x_scope": 7,
+    "free_camera": 21
+  },
+  "Redmi Note 8": {
+    "general": 129,
+    "reddot": 101,
+    "2x_scope": 68,
+    "4x_scope": 52,
+    "8x_scope": 3,
+    "free_camera": 16
+  },
+  "Redmi Note 8 Pro": {
+    "general": 132,
+    "reddot": 104,
+    "2x_scope": 71,
+    "4x_scope": 55,
+    "8x_scope": 5,
+    "free_camera": 18
+  },
+  "Redmi Note 7": {
+    "general": 124,
+    "reddot": 96,
+    "2x_scope": 63,
+    "4x_scope": 47,
+    "8x_scope": 20,
+    "free_camera": 13
+  },
+  "Redmi Note 7 Pro": {
+    "general": 127,
+    "reddot": 99,
+    "2x_scope": 66,
+    "4x_scope": 50,
+    "8x_scope": 17,
+    "free_camera": 15
+  },
+  "Redmi 13C": {
+    "general": 120,
+    "reddot": 100,
+    "2x_scope": 70,
+    "4x_scope": 60,
+    "8x_scope": 3,
+    "free_camera": 1
+  },
+  "Redmi 12": {
+    "general": 125,
+    "reddot": 105,
+    "2x_scope": 75,
+    "4x_scope": 65,
+    "8x_scope": 6,
+    "free_camera": 5
+  },
+  "Redmi 11": {
+    "general": 130,
+    "reddot": 110,
+    "2x_scope": 80,
+    "4x_scope": 70,
+    "8x_scope": 9,
+    "free_camera": 10
+  },
+  "Redmi 10": {
+    "general": 135,
+    "reddot": 115,
+    "2x_scope": 85,
+    "4x_scope": 75,
+    "8x_scope": 12,
+    "free_camera": 14
+  },
+  "Redmi 9": {
+    "general": 140,
+    "reddot": 118,
+    "2x_scope": 88,
+    "4x_scope": 78,
+    "8x_scope": 15,
+    "free_camera": 20
+  },
+  "Redmi 9A": {
+    "general": 145,
+    "reddot": 120,
+    "2x_scope": 90,
+    "4x_scope": 80,
+    "8x_scope": 18,
+    "free_camera": 26
+  },
+  "Redmi 8": {
+    "general": 148,
+    "reddot": 122,
+    "2x_scope": 92,
+    "4x_scope": 82,
+    "8x_scope": 19,
+    "free_camera": 32
+  },
+  "Redmi 7": {
+    "general": 151,
+    "reddot": 125,
+    "2x_scope": 94,
+    "4x_scope": 84,
+    "8x_scope": 13,
+    "free_camera": 35
+  },
+  "POCO X6": {
+    "general": 155,
+    "reddot": 128,
+    "2x_scope": 96,
+    "4x_scope": 88,
+    "8x_scope": 14,
+    "free_camera": 37
+  },
+  "POCO X6 Pro": {
+    "general": 160,
+    "reddot": 132,
+    "2x_scope": 100,
+    "4x_scope": 92,
+    "8x_scope": 16,
+    "free_camera": 38
+  },
+  "POCO X5": {
+    "general": 156,
+    "reddot": 129,
+    "2x_scope": 98,
+    "4x_scope": 90,
+    "8x_scope": 17,
+    "free_camera": 39
+  },
+  "POCO X5 Pro": {
+    "general": 161,
+    "reddot": 133,
+    "2x_scope": 104,
+    "4x_scope": 96,
+    "8x_scope": 19,
+    "free_camera": 40
+  },
+  "POCO M6": {
+    "general": 146,
+    "reddot": 117,
+    "2x_scope": 83,
+    "4x_scope": 67,
+    "8x_scope": 11,
+    "free_camera": 23
+  },
+  "POCO M6 Pro": {
+    "general": 153,
+    "reddot": 127,
+    "2x_scope": 93,
+    "4x_scope": 83,
+    "8x_scope": 20,
+    "free_camera": 17
+  },
+  "POCO M5": {
+    "general": 141,
+    "reddot": 113,
+    "2x_scope": 79,
+    "4x_scope": 63,
+    "8x_scope": 7,
+    "free_camera": 12
+  },
+  "POCO M4": {
+    "general": 136,
+    "reddot": 108,
+    "2x_scope": 74,
+    "4x_scope": 58,
+    "8x_scope": 4,
+    "free_camera": 8
+  },
+  "POCO F6": {
+    "general": 165,
+    "reddot": 138,
+    "2x_scope": 110,
+    "4x_scope": 100,
+    "8x_scope": 18,
+    "free_camera": 34
+  },
+  "POCO F5": {
+    "general": 162,
+    "reddot": 135,
+    "2x_scope": 107,
+    "4x_scope": 97,
+    "8x_scope": 15,
+    "free_camera": 31
+  },
+  "POCO F4": {
+    "general": 158,
+    "reddot": 130,
+    "2x_scope": 103,
+    "4x_scope": 93,
+    "8x_scope": 12,
+    "free_camera": 28
+  },
+  "POCO C65": {
+    "general": 121,
+    "reddot": 101,
+    "2x_scope": 71,
+    "4x_scope": 61,
+    "8x_scope": 5,
+    "free_camera": 2
+  },
+  "POCO C55": {
+    "general": 126,
+    "reddot": 106,
+    "2x_scope": 76,
+    "4x_scope": 66,
+    "8x_scope": 8,
+    "free_camera": 6
+  },
+  "Xiaomi 14": {
+    "general": 180,
+    "reddot": 140,
+    "2x_scope": 120,
+    "4x_scope": 110,
+    "8x_scope": 20,
+    "free_camera": 40
+  },
+  "Xiaomi 14 Pro": {
+    "general": 179,
+    "reddot": 139,
+    "2x_scope": 119,
+    "4x_scope": 109,
+    "8x_scope": 19,
+    "free_camera": 39
+  },
+  "Xiaomi 14 Ultra": {
+    "general": 178,
+    "reddot": 138,
+    "2x_scope": 118,
+    "4x_scope": 108,
+    "8x_scope": 18,
+    "free_camera": 38
+  },
+  "Xiaomi 13": {
+    "general": 177,
+    "reddot": 137,
+    "2x_scope": 117,
+    "4x_scope": 107,
+    "8x_scope": 17,
+    "free_camera": 37
+  },
+  "Xiaomi 13 Pro": {
+    "general": 176,
+    "reddot": 136,
+    "2x_scope": 116,
+    "4x_scope": 106,
+    "8x_scope": 16,
+    "free_camera": 36
+  },
+  "Xiaomi 13T": {
+    "general": 175,
+    "reddot": 135,
+    "2x_scope": 115,
+    "4x_scope": 105,
+    "8x_scope": 15,
+    "free_camera": 35
+  },
+  "Xiaomi 13T Pro": {
+    "general": 174,
+    "reddot": 134,
+    "2x_scope": 114,
+    "4x_scope": 104,
+    "8x_scope": 14,
+    "free_camera": 34
+  },
+  "Xiaomi 12": {
+    "general": 173,
+    "reddot": 133,
+    "2x_scope": 113,
+    "4x_scope": 103,
+    "8x_scope": 13,
+    "free_camera": 33
+  },
+  "Xiaomi 12 Pro": {
+    "general": 172,
+    "reddot": 132,
+    "2x_scope": 112,
+    "4x_scope": 102,
+    "8x_scope": 12,
+    "free_camera": 32
+  },
+  "Xiaomi 12T": {
+    "general": 171,
+    "reddot": 131,
+    "2x_scope": 111,
+    "4x_scope": 101,
+    "8x_scope": 11,
+    "free_camera": 31
+  },
+  "Xiaomi 11": {
+    "general": 170,
+    "reddot": 130,
+    "2x_scope": 110,
+    "4x_scope": 100,
+    "8x_scope": 10,
+    "free_camera": 30
+  },
+  "Xiaomi 11T": {
+    "general": 169,
+    "reddot": 129,
+    "2x_scope": 109,
+    "4x_scope": 99,
+    "8x_scope": 9,
+    "free_camera": 29
+  },
+  "Xiaomi Mi 10": {
+    "general": 168,
+    "reddot": 128,
+    "2x_scope": 108,
+    "4x_scope": 98,
+    "8x_scope": 8,
+    "free_camera": 28
+  },
+  "Xiaomi Mi 10 Pro": {
+    "general": 167,
+    "reddot": 127,
+    "2x_scope": 107,
+    "4x_scope": 97,
+    "8x_scope": 7,
+    "free_camera": 27
+  },
+  "Xiaomi Mi 11 Lite": {
+    "general": 166,
+    "reddot": 126,
+    "2x_scope": 106,
+    "4x_scope": 96,
+    "8x_scope": 6,
+    "free_camera": 26
+  },
+  "Mi A1": {
+    "general": 131,
+    "reddot": 102,
+    "2x_scope": 69,
+    "4x_scope": 53,
+    "8x_scope": 19,
+    "free_camera": 17
+  },
+  "Mi A2": {
+    "general": 133,
+    "reddot": 103,
+    "2x_scope": 70,
+    "4x_scope": 54,
+    "8x_scope": 16,
+    "free_camera": 14
+  },
+  "Mi A3": {
+    "general": 136,
+    "reddot": 107,
+    "2x_scope": 73,
+    "4x_scope": 57,
+    "8x_scope": 13,
+    "free_camera": 11
+  },
+  "Xiaomi Civi 4": {
+    "general": 163,
+    "reddot": 134,
+    "2x_scope": 112,
+    "4x_scope": 102,
+    "8x_scope": 17,
+    "free_camera": 33
+  },
+  "Xiaomi Pad 6": {
+    "general": 138,
+    "reddot": 112,
+    "2x_scope": 78,
+    "4x_scope": 62,
+    "8x_scope": 14,
+    "free_camera": 22
+  },
+  "Xiaomi Pad 6 Pro": {
+    "general": 143,
+    "reddot": 118,
+    "2x_scope": 86,
+    "4x_scope": 76,
+    "8x_scope": 12,
+    "free_camera": 28
+  },
+  "Redmi K70": {
+    "general": 169,
+    "reddot": 128,
+    "2x_scope": 108,
+    "4x_scope": 98,
+    "8x_scope": 16,
+    "free_camera": 32
+  },
+  "Redmi K60": {
+    "general": 164,
+    "reddot": 124,
+    "2x_scope": 104,
+    "4x_scope": 94,
+    "8x_scope": 18,
+    "free_camera": 36
+  },
+  "Redmi Turbo 3": {
+    "general": 157,
+    "reddot": 130,
+    "2x_scope": 99,
+    "4x_scope": 89,
+    "8x_scope": 15,
+    "free_camera": 35
+  }
+}
